@@ -1,4 +1,4 @@
-**# Olila-BEP20-Source**
+**# TheChromaShopToken.sol**
 SCRIPTS
 
 The 'scripts' folder contains example async/await scripts for deploying the 'Storage' contract.
